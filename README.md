@@ -1,7 +1,7 @@
 <!-- Typing Animation Banner -->
 
 <p align="center"><img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Vaibhav+Shukla+👋;Full+Stack+Developer+%7C+MERN+Specialist;Always+Learning+%7C+Always+Building" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=100&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Vaibhav+Shukla+👋;Full+Stack+Developer+%7C+MERN+Specialist;Always+Learning+%7C+Always+Building" 
     alt="Typing SVG" 
   /></p>
 
@@ -10,7 +10,7 @@
 <br/><br/><br/><br/><br/><br/><h1></h1>
 
 
-  <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=800&color=E94D5F&center=true&vCenter=true&width=300&lines=👨‍💻+About+Me"/></p>
+  <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=10000&color=E94D5F&center=true&vCenter=true&width=300&lines=👨‍💻+About+Me"/></p>
 
 <br/><br/>
 <p align="center">
@@ -29,7 +29,7 @@ I'm looking for a team that shares this passion for creating meaningful products
 <br/><br/><br/><br/><h1></h1>
 <!-- Technologies -->
 
- <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=800&color=36BCF7&center=true&vCenter=true&width=500&lines=🔧+Technologies+%26+Tools"/></p>
+ <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=10000&color=36BCF7&center=true&vCenter=true&width=500&lines=🔧+Technologies+%26+Tools"/></p>
 
 <br/><br/><br/><br/>
 <p align="center">
@@ -41,7 +41,7 @@ I'm looking for a team that shares this passion for creating meaningful products
 <!-- Currently Learning -->
 <h2>
 </h2>
-<p align="center">  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=800&color=2ECC71&center=true&vCenter=true&width=450&lines=🌱+Currently+Learning"/></p>
+<p align="center">  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=10000&color=2ECC71&center=true&vCenter=true&width=450&lines=🌱+Currently+Learning"/></p>
 <br/><br/><br/><br/>
 <ul align="center">
   <li>⚡ Backend Architecture & System Design</li>
@@ -54,7 +54,7 @@ I'm looking for a team that shares this passion for creating meaningful products
 <!-- Contact -->
 <h2 >
 </h2>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=800&color=0e76a8&center=true&vCenter=true&width=450&lines=📫+How+to+Reach+Me"/>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=10000&color=0e76a8&center=true&vCenter=true&width=450&lines=📫+How+to+Reach+Me"/>
 </p>
 <br/><br/><br/><br/>
 <p align="center">
@@ -72,7 +72,7 @@ I'm looking for a team that shares this passion for creating meaningful products
 <!-- GitHub Stats -->
 <h2 >
 </h2>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=800&color=F39C12&center=true&vCenter=true&width=450&lines=📊+GitHub+Stats"/>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=10000&color=F39C12&center=true&vCenter=true&width=450&lines=📊+GitHub+Stats"/>
 </p>
 <br/><br/><br/><br/>
 <p align="center">
